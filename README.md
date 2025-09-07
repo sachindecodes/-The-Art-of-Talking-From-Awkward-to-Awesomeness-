@@ -16,8 +16,7 @@ A *professional lab manual* created by [Sachin Chaudhary](https://github.com/sac
 
 ## 📂 Files in This Repository  
 - The_Art_of_Talking_Manual_With_Cover.pdf → Complete manual (with cover)  
-- [Preview of the manual’s cover](preview-cover.png)  
-- preview-sample.png → Sample inside page (drills/example)  
+- ![Preview of the manual’s cover](preview-cover.png)  
 
 ---
 
